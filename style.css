@@ -47,4 +47,12 @@ body{
     .port-item{
         padding: 3em !important;
     }
+
+   
 }
+
+@media only screen and (max-width: 600px) {
+   #name{
+        font-size: xx-large;
+    }
+  }
