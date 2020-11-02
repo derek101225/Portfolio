@@ -31,6 +31,18 @@
 .img-fluid{
     height: 300px;
     width: 400px;
+    transition: transform .2s;
+    transition: .4s ease-in-out;
+    
+    
+}
+.img-fluid:hover{
+    background-size: contain;
+   position: absolute;
+   z-index: 1;
+    
+    transform: scale(1.1) ; 
+    
 }
 
 body{
