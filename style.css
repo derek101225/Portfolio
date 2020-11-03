@@ -37,9 +37,11 @@
     
 }
 .img-fluid:hover{
-    background-size: contain;
-   position: absolute;
-   z-index: 1;
+    /* background-size: contain; */
+   position: relative;
+   z-index: 1999;
+   
+   
     
     transform: scale(1.1) ; 
     
