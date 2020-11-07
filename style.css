@@ -97,5 +97,6 @@ body{
 @media only screen and (max-width: 325px){
     #main-header .port-item{
         width: 25%;
+    }
 }
 
